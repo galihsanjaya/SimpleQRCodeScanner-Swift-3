@@ -1,0 +1,1 @@
+# SimpleQRCodeScanner-Swift-3
